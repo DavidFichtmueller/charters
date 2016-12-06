@@ -29,9 +29,11 @@ The FS will evaluate potential software tools of interest to TDWG and provide re
 
 Following the [TDWG constitution](https://github.com/tdwg/constitution), this charter may be revised to better reflect the strategic priorities of TDWG or changes within this FS. These changes will be presented to the TDWG membership for open consultation for at least 21 days prior to approval by the Executive.
 
-### Membership, structure, and quorum
+### Membership
 
-The chair shall be elected by the TDWG membership. The chair is responsible for appointing sub-committee members and a deputy chair. The FS shall contain between 3 and 7 members. The FS members should have experience in system administration, running content management systems, developing websites, collaborative version control systems for documents and software or in providing technical helpdesk tasks.
+The chair of the FS is elected by the TDWG membership and is a member of the Executive. The chair is responsible for appointing FS members and a deputy chair. The FS will operate with 5-7 members.
+
+Ideally FS members should have experience in system administration, running content management systems, developing websites, collaborative version control systems for documents and software, or in providing technical helpdesk tasks.
 
 ### Meetings
 

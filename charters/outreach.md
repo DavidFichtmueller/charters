@@ -29,12 +29,10 @@ Following the [TDWG constitution](https://github.com/tdwg/constitution), this ch
 
 ### Membership
 
-The chair shall be elected by the TDWG membership. 
+The chair of the FS is elected by the TDWG membership and is a member of the Executive. The chair is responsible for appointing FS members and a deputy chair. The FS will operate with 5-7 members.
 
-The Executive Committee Chair in consultation with the OAC Chair is responsible for appointing sub-committee members and a vice-chair.
+The FS membership ideally different regions and with different expertise, with specific orientation for outreach and communication of the activities of TDWG.
 
-OAC should be between 5 and 7 members, ideally with representation from different regions and with different expertise, with specific orientation for outreach and communication of the activities of TDWG. 
- 
 ### Meetings, documentation and reporting
 
 The OAC reports to the TDWG executive.   

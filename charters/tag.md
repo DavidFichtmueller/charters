@@ -30,7 +30,9 @@ Following the [TDWG constitution](https://github.com/tdwg/constitution), this ch
 
 ### Membership
 
-The chair shall be elected by the TDWG membership. The chair is responsible for appointing sub-committee members and a deputy chair. The TAG shall contain between 5 and 9 members, ideally with representation from core, standards maintenance interest groups and major implementors. The TAG may call on external, expert assistance as required.
+The chair of the FS is elected by the TDWG membership and is a member of the Executive. The chair is responsible for appointing FS members and a deputy chair. The FS will operate with 5-9 members.
+
+The FS membership ideally has representation from core, standards maintenance interest groups and major implementors. The FS may call on external, expert assistance as required.
 
 ### Meetings, documentation, and reporting
 

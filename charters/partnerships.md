@@ -38,8 +38,11 @@ Other fundraising:
 
 Following the [TDWG constitution](https://github.com/tdwg/constitution), this charter may be revised to better reflect the strategic priorities of TDWG or changes within this FS. These changes will be presented to the TDWG membership for open consultation for at least 21 days prior to approval by the Executive.
 
-### Membership and Meetings
+### Membership
 
-The FPFS will be convened by the directly elected from the TDWG membership chair of the FS. The chair shall be elected by the TDWG membership. The chair is responsible for appointing sub-committee members and a deputy chair. The FS will operate with 5-7 members. 
+The chair of the FS is elected by the TDWG membership and is a member of the Executive. The chair is responsible for appointing FS members and a deputy chair. The FS will operate with 5-7 members.
+
+## Meetings
+
 
 The FS will convene on a regular basis, at least every three months through physical or online meetings. The chair or deputy chair will also be able to call for an ad-hoc meeting or workshop to address urgent matters.
