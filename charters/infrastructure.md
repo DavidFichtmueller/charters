@@ -25,9 +25,9 @@ The FS will evaluate potential software tools of interest to TDWG and provide re
 
 ## Organization
 
-### Charter 
+### Charter
 
-According to TDWG Constitution, the charter may be revised by the the TDWG Executive Committee according to the strategic priorities of the organisation. Changes to the charter will be put up for open membership consultation for 30 days prior to approval.
+Following the [TDWG constitution](https://github.com/tdwg/constitution), this charter may be revised to better reflect the strategic priorities of TDWG or changes within this FS. These changes will be presented to the TDWG membership for open consultation for at least 21 days prior to approval by the Executive.
 
 ### Membership, structure, and quorum
 
