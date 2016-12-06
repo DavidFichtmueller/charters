@@ -2,8 +2,6 @@
 
 ## Mission
 
-The TDWG community spans the six continents of North and South America, Africa, Asia, Europe, and Oceania. The majority of members are from North America, Europe and Oceania and this is reflected in the past hosting of meetings by continent. Recent statistics show that, there have been 10 meetings in North America, 11 in Europe, 4 in Oceania, 1 in each of Asia and South and Central America and 1 in Africa. In the past 10 years there has been 3 in North America, 1 in South and Central America, 4 in Europe and 2 in Oceania. In the past 6 years there have been 3 in the Americas (all North) and 2 in Europe and 1 in Oceania.
-
 The Time and Place Functional Subcommittee (FS) mission is to establish a six year rolling plan for the hosting of TDWG meetings, which seeks to expand the influence of TDWG whilst retaining and increasing its core membership base. It is aiming at expanding the TDWG community, maintaining existing community, maintaining functionality of interest and task groups, and taking advantage of funding for hosting opportunities.
 
 ## Responsibilities
